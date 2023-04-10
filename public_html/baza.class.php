@@ -2,17 +2,10 @@
 
 class Baza {
 
-    /*
-    ***REMOVED***
-    ***REMOVED***
-    ***REMOVED***
-    const baza = "WebDiP2020x119";
-    */
-    
-    ***REMOVED***
-    ***REMOVED***
-    ***REMOVED***
-    const baza = "WebDiP2020x119";
+    const server = "";
+    const korisnik = "";
+    const lozinka = "";
+    const baza = "";
 
     private $veza = null;
     private $greska = '';
